@@ -26,12 +26,17 @@ Month, Year, Product Name, Units Sold, Revenue, Discount, and Platform.
 Indicative KPIs 📊 
 
 - Total Revenue from Whey Protein in 2024
+  
   ![image](https://github.com/user-attachments/assets/d22854eb-16fe-4b1d-be1f-9a4d8483a0e1)
 
 - Amazon 2023
+  
   ![image](https://github.com/user-attachments/assets/a2f6dfa3-2472-4505-93c1-a00e4a8adae0)
 
--
+- Magnesium's average discount on Walmart in October 2022 was 22%
+
+  ![image](https://github.com/user-attachments/assets/4f6a7ad9-a132-494a-bce9-36d4ad7850eb)
+
 
 
 

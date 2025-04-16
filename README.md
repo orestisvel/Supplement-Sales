@@ -37,6 +37,11 @@ Indicative KPIs 📊
 
   ![image](https://github.com/user-attachments/assets/4f6a7ad9-a132-494a-bce9-36d4ad7850eb)
 
+- Average Discount by Platform (2020 – March 2025) across all 16 Products
+  ![image](https://github.com/user-attachments/assets/665f6f2c-442e-45cc-a05b-b00897dbc2e6)
+
+
+
 
 
 
